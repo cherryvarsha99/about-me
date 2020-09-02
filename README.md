@@ -35,7 +35,7 @@ In This Repo We will discuss  all required Tools we need for web development  an
 
 ## Contributors
 
-Varsha Vellanki, Masters in ACS in North West Missouri
+Varsha Vellanki, Masters in ACS at North West Missouri
 ![nwmsu](https://user-images.githubusercontent.com/70028775/92042447-d9249f80-ed3f-11ea-9eac-47607217cecc.jpg)
 
 

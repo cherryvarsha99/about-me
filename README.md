@@ -2,9 +2,9 @@
 
 ## Repository Links
 
-SOurce Respository: [https://github.com/cherryvarsha99/about-me]
+Source Respository: https://github.com/cherryvarsha99/about-me
 
-Hosted Page: 
+Hosted Page:        https://cherryvarsha99.github.io/about-me/
 
 ## INTRO
 

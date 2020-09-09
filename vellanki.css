@@ -1,0 +1,48 @@
+html {
+	margin: 0;
+	padding: 0;
+	}
+body { 
+	
+	color: #0a0a0a; 
+	background-image: url("background.jpg");
+  background-repeat: repeat;
+	margin: 0; 
+	padding: 0;
+	}
+
+nav img{
+    float: right;
+    border-radius: 50%;
+}
+
+nav a{
+
+    color: black;
+    padding: 10px 10px;
+}
+aside{
+    float: right;
+    text-align: left;
+    color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: lightgray;
+}
+a:link { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: #080808;
+    }
+    
+    p { 
+        margin-top: 0; 
+        text-align: justify;
+        }
+    h3 { 
+        font: italic normal 1.4em georgia, sans-serif;
+        letter-spacing: 1px; 
+        margin-bottom: 0; 
+        color: #7D775C;
+        }
+       

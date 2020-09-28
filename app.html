@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Area Calculator</title>
     <link href="styles/vellanki.css" rel="stylesheet">
-   
+    
 </head>
 
 <body>
@@ -17,33 +17,29 @@
    <nav>
         <a href="index.html">Home</a>
         <a href="contact.html">Contact</a>
-        <a href="app.html">Practice App</a>
+        <a href="App.html">Practice App</a>
         <img src="vsv.jpg" class="img-circle" alt="Profile" width="60" height="60">
+        <script defer src="calculate.js" ></script>
     </nav>
     <br>
     <header>
-        <h1> calulate sum</h1>
+        <h1> calulate sum  </h1>
+        
     </header>
 
-    <table>
-        <tr>
-            <td>Side 1 (a)</td>
-            <td>
-                <input type="text" name="value1" value="" class="inlong">
-            </td>
-        </tr>
-        <tr>
-            <td>Side 2 (b)</td>
-            <td>
-                <input type="text" name="value2" value="" class="inlong">
-            </td>
-        </tr>
-        <tr>
-            <td>Side 3 (c)</td>
-            <td>
-                <input type="text" name="value3" value="" class="inlong">
-            </td>
-        </tr>
-    </table>
-    <input type="submit" value="Calculate">
+    <div id = "qunit"></div>
+      <div id = "qunit-fixture"></div> 
+        <input type="text" id="value1" name="value1" placeholder="enter number"/> <br>
+        <input type="text" id="value2" name="value2" placeholder="enter number"/> <br>
+        <input type="text" id="value3" name="value3" placeholder="enter number"/> <br>
+        <input type="button" name="Sumbit" value="Click here" onclick="javascript:add()"/>
+        <input type="text" id="answer" name="answer" placeholder="Result"/>
+       
+
+        <button id="ajaxcall">Result</button> 
+       
+    
+    </body>
+    </body>
+    </html>
     
